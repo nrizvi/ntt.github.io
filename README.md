@@ -22,3 +22,14 @@ The following is a general guideline to help developers and designers launch our
    * Ensure color contrasts are acceptable for low vision users (use browser extensions to verify)
    * Create a universal color scheme for us to use across all social media channels
    * Create an "issue" to share UI mockup with other devs & coordinate efforts 
+
+## Next Steps
+
+*Design help needed:*
+ * Design our logo
+ * Pick a nice color scheme for us to use across all social media
+ * Design a UI mockup for us and share it in a PR, as an issue, or with me
+ 
+ *Dev/PM help needed:*
+  * Pick our tech stack
+  * Coordinate efforts with other devs & see this project is completed ASAP
