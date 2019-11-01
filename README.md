@@ -1,4 +1,3 @@
-# ntt.github.io
 Official repository for Non-Traditional Techies (NTT) Website
 
 All are welcome to contribute. 
